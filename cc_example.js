@@ -34,3 +34,15 @@
 // console.log(JSON.stringify(inventroy.items));
 // inventroy.removeFirstItem();
 // console.log(JSON.stringify(inventroy.items));
+
+//Task 7
+// let employees = [
+//         { name: "Alice", position:"developer", salary:70000},
+//         { name: "Bob", position: "designer", salary:60000},
+//         { name: "Charlie", position:"manager", salary:9000},
+//     ]
+
+// function findemployee(employees, name){
+//     return employees.find(employee => employee.name === name)
+// }
+// console.log(findemployee(employees, "Alice"));
